@@ -1,4 +1,4 @@
 # ayush.demo
 This is my first Git Repository.
 <br>
-Author - Ayush verma
+Author - Ayush verma (recs)
